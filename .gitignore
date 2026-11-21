@@ -1,0 +1,7 @@
+.godot/
+build/*.apk
+build/*.aab
+build/*.pck
+__pycache__/
+*.pyc
+.DS_Store
